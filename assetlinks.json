@@ -1,0 +1,10 @@
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.getrule.rulemoney",
+    "sha256_cert_fingerprints": [
+      "F8:D4:CE:CD:75:1B:5F:38:D4:E7:3B:FB:D6:84:1E:9C:CF:40:96:F0:78:9D:8C:9B:9E:3F:F2:B6:13:C0:AF:39"
+    ]
+  }
+}
